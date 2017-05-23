@@ -14,7 +14,7 @@ iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定
 
 [如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)
 ### 如何获取
-外设需要购买,通过快递才能到你手上，不是软件。可选[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)或[淘宝](http://c.b8yz.com/F.c2jcD) 
+外设需要购买,通过快递才能到你手上，不是软件。可选[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)或[淘宝](https://item.taobao.com/item.htm?id=551281553678) 
 ### 问题反馈、交流
 QQ群：612428052
 
