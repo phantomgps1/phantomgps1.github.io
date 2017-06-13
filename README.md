@@ -22,9 +22,8 @@ iOS版本需大于8.0。
 <br>
 购买之后将UDID发给店家，从这里[下载](https://www.pgyer.com/phantomgps)APP
 ### 常见问题、交流
-[faq](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
+[如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
+[其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
 
-QQ群：612428052
-
-
+QQ群：612428052<br>
 ![rqcode.png](http://upload-images.jianshu.io/upload_images/5872815-efba5722342dc399.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
