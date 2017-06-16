@@ -18,7 +18,7 @@ iOS版本需大于8.0。
 ### 如何获取
 外设需要购买,通过快递才能到你手上，不是软件。
 <br>
-淘宝审核不通过，可选择[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)或[闲鱼](http://c.b7yz.com/F.cPx2c) 购买
+[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail) 链接
 <br>
 购买之后将UDID发给店家，从这里[下载](https://www.pgyer.com/phantomgps)APP
 ### 常见问题、交流
