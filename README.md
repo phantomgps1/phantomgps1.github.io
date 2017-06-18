@@ -16,7 +16,7 @@ iOS版本需大于8.0。
 
 [如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)
 ### 如何获取
-** 外设** 需要购买,通过快递才能到你手上，不是软件。
+**外设** 需要购买,通过快递才能到你手上，不是软件。
 <br>
 价格：￥200.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
