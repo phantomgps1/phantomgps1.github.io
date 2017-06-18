@@ -16,9 +16,10 @@ iOS版本需大于8.0。
 
 [如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)
 ### 如何获取
-外设需要购买,通过快递才能到你手上，不是软件。
+** 外设** 需要购买,通过快递才能到你手上，不是软件。
 <br>
-[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail) 链接
+价格：￥200.00 RMB<br>
+购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
 <br>
 购买之后将UDID发给店家，从这里[下载](https://www.pgyer.com/phantomgps)APP
 ### 常见问题、交流
