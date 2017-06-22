@@ -4,9 +4,9 @@
 
 iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定位置，将位置信息输入给设备，iOS会认为你设定的位置就是你当前所在的位置。
 ### 支持哪些设备
-使用lightning接口（16pin USB接头）的设备，即iPhone5以后发行的手机和pad都支持。
+支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
+&#x1F534;iOS版本必须大于9.0&#x1F534;
 
-iOS版本需大于8.0。
 ### 如何使用
 [如何修改手机位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
 
@@ -16,7 +16,7 @@ iOS版本需大于8.0。
 
 [如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)
 ### 如何获取
-**外设** 需要购买,通过快递才能到你手上，不是软件。
+**外设**需要购买,通过快递才能到你手上，不是软件。
 <br>
 价格：￥200.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
