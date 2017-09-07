@@ -21,7 +21,7 @@ iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定
 价格：￥200.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
 <br>
-购买之后将UDID发给店家，从这里[下载](https://www.pgyer.com/phantomgps)APP
+购买之后将能接收邮件的邮箱地址发给店家，用于测试邀请，从TestFlight下载App
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
