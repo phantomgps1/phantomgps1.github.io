@@ -6,7 +6,9 @@ iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 &#x1F534;iOS稳定支持的版本是10.x&#x1F534;<br>
-目前暂不支持iOS11.0（已破解，正在测试，暂不发售）
+不支持11.0（已破解，正在测试，暂不发售）
+
+
 ### 如何使用
 [如何修改手机位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
 
@@ -21,7 +23,7 @@ iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定
 价格：￥200.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
 <br>
-购买之后将能接收邮件的邮箱地址发给店家，用于测试邀请，从TestFlight下载App
+购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
