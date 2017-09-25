@@ -5,8 +5,8 @@
 iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定位置，将位置信息输入给设备，iOS会认为你设定的位置就是你当前所在的位置。
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
-&#x1F534;iOS版本必须大于9.0&#x1F534;
-
+&#x1F534;iOS稳定支持的版本是10.x&#x1F534;<br>
+目前暂不支持iOS11.0（已破解，正在测试，暂不发售）
 ### 如何使用
 [如何修改手机位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
 
