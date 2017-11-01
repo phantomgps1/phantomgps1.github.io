@@ -20,7 +20,7 @@ iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定
 ### 如何获取
 **外设**需要购买,通过快递才能到你手上，不是软件。
 <br>
-价格：￥200.00 RMB<br>
+价格：￥500.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
 <br>
 购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。
