@@ -2,11 +2,12 @@
 ### Phantom GPS是什么
 ![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-iPhone/iPad的外设GPS，但不接收卫星信号，而是通过APP自行设定位置，将位置信息输入给设备，iOS会认为你设定的位置就是你当前所在的位置。
+iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自行设定。
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
-&#x1F534;iOS稳定支持的版本是10.x&#x1F534;<br>
-不支持11.0（已破解，正在测试，暂不发售）
+支持iOS 9.x<br>
+&#x1F534;稳定支持的iOS版本是10.x&#x1F534;<br>
+支持iOS11.x，但苹果升级了对外部GPS的限制，只能将位置修改至真实位置的15KM范围之内；或者打开飞行模式，清除位置信息后可改至全球任意位置，打开网络后2分钟内回到真实位置
 
 
 ### 如何使用
