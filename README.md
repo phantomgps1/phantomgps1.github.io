@@ -6,8 +6,8 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 9.x，部分国行手机无法识别外设。<br>
-&#x1F534;稳定支持的iOS版本是10.x&#x1F534;<br>
-支持iOS11.x，苹果从iOS11.0开始加强了对外部GPS的限制，只能将位置修改至真实位置的**15KM**范围之内；或者打开飞行模式，清除位置信息后可改至全球任意位置，打开网络后**2分钟内**回到真实位置
+&#x1F534;稳定支持的iOS版本是10.x、11.x&#x1F534;<br>
+
 
 
 ### 如何使用
@@ -21,10 +21,11 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 ### 如何获取
 **外设**需要购买,通过快递才能到你手上，不是软件。
 <br>
-价格：￥500.00 RMB<br>
+价格：￥350.00 RMB<br>
 购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
 <br>
-购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。
+购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。<br>
+一个设备只发送一个邀请，多个手机共用设备的情况，请用相同apple id登录，再下载TestFlight就可以安装。
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
