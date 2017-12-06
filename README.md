@@ -22,7 +22,7 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 **外设**需要购买,通过快递才能到你手上，不是软件。
 <br>
 价格：￥350.00 RMB<br>
-购买链接：[微店](https://weidian.com/i/2055676863?wfr=c&ifr=itemdetail)
+购买链接：[微店](http://weidian.com/i/2209894493?ifr=itemdetail&wfr=c)
 <br>
 购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。<br>
 一个设备只发送一个邀请，多个手机共用设备的情况，请用相同apple id登录，再下载TestFlight就可以安装。
