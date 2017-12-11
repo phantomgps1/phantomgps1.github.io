@@ -27,6 +27,10 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。<br>
 一个设备只发送一个邀请，多个手机共用设备的情况，请用相同apple id登录，再下载TestFlight就可以安装。
 ### 常见问题、交流
+可以升级吗？比如现在是11.2，能升级到11.2.1？
+该设备并**不是苹果的合法外设**，哪天他修改相关策略，外设就不能用了，因此不承诺升级之后还继续使用<br>
+承诺购买3个月之内升级后不能用的全额退款<br>
+从目前来看小版本升级无大碍，从iOS8到iOS11,4年时间内苹果修改过一次协议，对外设GPS有影响。
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
 
