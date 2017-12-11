@@ -7,10 +7,11 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 9.x，部分国行手机无法识别外设。<br>
 &#x1F534;稳定支持的iOS版本是10.x、11.x&#x1F534;<br>
+目前支持最新的版本是iOS11.2（15C114)，Beta版本未测试。
 
 
 
-### 如何使用
+### 使用方法
 [如何修改手机位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
 
 [如何在苹果手机上修改微信位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
@@ -29,9 +30,7 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 ### 常见问题、交流
 #### 可以升级iOS吗？
 比如现在是11.2，能升级到11.2.1？<br>
-该设备并**不是苹果的合法外设**，哪天他修改相关策略，外设就不能用了，因此**不承诺**升级之后还继续使用<br>
-承诺购买3个月之内升级后不能用的全额退款<br>
-从目前来看小版本升级无大碍，从iOS8到iOS11，4年时间苹果只做过一次对外设GPS有影响的修改。<br>
+该设备并**不是苹果的合法外设**，哪天他修改相关策略，外设就不能用了，因此**不承诺**升级之后还能继续使用，只承诺购买3个月之内升级后不能用的全额退款，从目前来看小版本升级无大碍，从iOS8到iOS11，4年时间苹果只做过一次对外设GPS有影响的修改。建议升级之前查看QQ群公告，获取支持的最新版本<br>
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
 
