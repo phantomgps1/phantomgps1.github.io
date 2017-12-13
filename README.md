@@ -29,8 +29,7 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 一个设备只发送一个邀请，多个手机共用设备的情况，请用相同apple id登录，再下载TestFlight就可以安装。
 ### 常见问题、交流
 #### 可以升级iOS吗？
-比如现在是11.2，能升级到11.2.1？<br>
-该设备并**不是苹果的合法外设**，哪天他修改相关策略，外设就不能用了，因此**不承诺**升级之后还能继续使用，只承诺购买3个月之内升级后不能用的全额退款，从目前来看小版本升级无大碍，从iOS8到iOS11，4年时间苹果只做过一次对外设GPS有影响的修改。建议升级之前查看QQ群公告，获取支持的最新版本<br>
+
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
 
