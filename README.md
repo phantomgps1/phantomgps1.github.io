@@ -28,8 +28,6 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 购买之后将能接收邮件的邮箱地址发给店家，用于邀请测试，从TestFlight下载App。<br>
 一个设备只发送一个邀请，多个手机共用设备的情况，请用相同apple id登录，再下载TestFlight就可以安装。
 ### 常见问题、交流
-#### 可以升级iOS吗？
-
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](https://github.com/phantomgps/phantomgps.github.io/blob/master/faq.md)
 
