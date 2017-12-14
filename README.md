@@ -7,7 +7,7 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 9.x，部分国行手机无法识别外设。<br>
 &#x1F534;稳定支持的iOS版本是10.x、11.x&#x1F534;<br>
-目前支持最新的版本是iOS11.2（15C114)，Beta版本未测试。
+目前支持最新的版本是iOS11.2.2（15C153)，Beta版本未测试。
 
 
 
