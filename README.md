@@ -16,7 +16,7 @@ iPhone/iPad的外设GPS，能向手机发送GPS信号，位置可以通过APP自
 
 [如何在苹果手机上修改微信位置](https://jingyan.baidu.com/article/4b07be3ca7a77c48b380f334.html)
 ### 演示视频
-[PhantomGPS操作演示](http://v.youku.com/v_show/id_XMzI1MDUxMDU3Ng==.html?spm=a2hzp.8244740.0.0)
+[PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==)
 
 [未越狱手机如何在国内玩原版Pokemon Go](http://player.youku.com/embed/XMjcxMjE0MjYzNg==)
 
