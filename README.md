@@ -12,14 +12,14 @@ iOS设备的外置GPS，能向手机发送GPS信号，位置可以通过APP设�
 app安装分为两步：<br>
 1. 从 app store下载TestFlight。<br>
 2. 点击邮件里"View in TestFlight"的链接，跳转到TestFlight安装app<br>
-[app安装方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf)<br>
-[使用方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf)<br>
+更详细的步骤参考：[app安装方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf)<br>
+以及：[使用方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf)<br>
 ### 演示视频
-[PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==)
+[PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==) （录屏）
 
-[未越狱手机如何在国内玩原版Pokemon Go](http://player.youku.com/embed/XMjcxMjE0MjYzNg==)
+[未越狱手机如何在国内玩原版Pokemon Go](http://player.youku.com/embed/XMjcxMjE0MjYzNg==)(拍摄）
 
-[如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)
+[如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)(拍摄）
 
 ### 如何获取
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
