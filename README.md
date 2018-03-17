@@ -27,9 +27,8 @@ app安装分为两步：<br>
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 价格：￥360.00 RMB<br>
 购买链接：[微店](http://weidian.com/i/2250935638&ifr=itemdetail&wfr=c)<br>
-购买之后将能接收邮件的邮箱地址发给店家，用于测试邀请，从TestFlight下载App。<br>
+购买时备注邮箱地址，用于获取苹果发送的测试邀请邀请邮件，从TestFlight下载App。<br>
 一个设备只发送一个邀请。多个手机共用设备的情况，用相同apple id登录，再下载TestFlight即可以安装。<br>
-
 
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
