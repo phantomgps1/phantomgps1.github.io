@@ -1,8 +1,9 @@
 # PhantomGPS --iOS免越狱虚拟定位工具
 ### Phantom GPS是什么
-![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
+（2017年4月，没有外壳的产品原型）
 
-iOS设备的外置GPS，能向手机发送GPS信号，位置可以通过APP设定。
+PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便程序员调试程序所用。
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 8.x、9.x、10.x、11.x<br>
@@ -12,8 +13,9 @@ iOS设备的外置GPS，能向手机发送GPS信号，位置可以通过APP设�
 app安装分为两步：<br>
 1. 从 app store下载TestFlight。<br>
 2. 点击邮件里"View in TestFlight"的链接，跳转到TestFlight安装app<br>
-更详细的步骤参考：[app安装方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf)<br>
-以及：[使用方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf)<br>
+更详细的步骤参考：[app安装方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
+以及：[使用方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
+
 ### 演示视频
 [PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==) （录屏）
 
