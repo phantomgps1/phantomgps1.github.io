@@ -23,7 +23,7 @@ app安装分为两步：<br>
 
 [如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)(拍摄）
 
-### 如何获取
+### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 微店链接：[PhantomGPS--苹果外置GPS](http://weidian.com/i/2250935638&ifr=itemdetail&wfr=c)<br>
 购买时备注邮箱地址，用于获取苹果发送的测试邀请邀请邮件，从TestFlight下载App。<br>
