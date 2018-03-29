@@ -25,7 +25,7 @@ app安装分为两步：<br>
 
 ### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
-购买链接：[微店](http://weidian.com/i/2258146475&ifr=itemdetail&wfr=c)<br>
+购买链接：[微店](http://weidian.com/i/2250935638&ifr=itemdetail&wfr=c)<br>
 购买时备注邮箱地址，用于获取苹果发送的测试邀请邀请邮件，从TestFlight下载App。<br>
 一个设备只发送一个邀请。多个手机共用设备的情况，用相同apple id登录，再下载TestFlight即可以安装。<br>
 
