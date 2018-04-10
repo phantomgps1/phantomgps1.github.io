@@ -1,8 +1,8 @@
-### Phantom GPS是什么
+### Phantom GPS
 ![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
-（2017年4月，没有外壳的产品原型）
+（2017年4月，产品原型）
 
-PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便程序员调试程序所用。
+PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 8.x、9.x、10.x、11.x<br>
