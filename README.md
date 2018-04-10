@@ -7,7 +7,7 @@
     <meta name="keywords"  content="苹果 iPhone 虚拟定位 iOS11 免越狱 PhantomGPS">
     <meta name="theme-color" content="#000000">
     
-    <title>PhantomGPS --iOS免越狱虚拟定位工具</title>
+       <title>{{ site.title | default: site.github.repository_name }}</title>
 </header>
 
 ### Phantom GPS是什么
