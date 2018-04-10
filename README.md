@@ -1,5 +1,5 @@
 
-#Phantom GPS iOS 免越狱虚拟定位工具
+#Phantom GPS 
 ### Phantom GPS是什么
 ![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
 （2017年4月，没有外壳的产品原型）
