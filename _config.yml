@@ -1,1 +1,11 @@
+title: Phantom GPS
+SEOTitle: phantomgps
+header-img: img/post-bg-desk.jpg
+email: linhua@gpsmock.com
+description: ""
+keyword: "苹果 iPhone 虚拟定位 iOS11 免越狱 PhantomGPS"
+
+ga_track_id: 'UA-117274061-1'            # Format: UA-xxxxxx-xx
+ga_domain: phantomgps.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
 theme: jekyll-theme-modernist
