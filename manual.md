@@ -1,6 +1,6 @@
 详细手册请点击以下链接：<br>
 [app安装方法.pdf](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
-[使用方法.pdb](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
+[使用方法.pdf](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
 ### 安装
 1.	购买时留言邮箱地址，能收邮件的就行，**不需要**和Apple ID一致
 2.	从AppStore下载TestFlight <img src="https://apprecs.org/ios/images/app-icons/256/30/899247664.jpg" width="24"><br>
