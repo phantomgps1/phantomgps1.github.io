@@ -12,7 +12,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 app安装分为两步：<br>
 1. 从 app store下载TestFlight。<br>
 2. 从邮件里获取兑换码，输入到TestFlight中。<br>
-更详细的步骤参考：[app安装方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) 和[使用方法](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
+更详细的步骤参考：[PhantomGPS手册](http://phantomgps.com/manual)  <br>
 
 ### 演示视频
 [PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==) （录屏）
