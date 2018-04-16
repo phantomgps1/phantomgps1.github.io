@@ -1,6 +1,6 @@
 ### Phantom GPS
 ![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
-（2017年4月，没有外壳）
+（2017年4月，当时没有外壳）
 
 PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
 ### 支持哪些设备
