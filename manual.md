@@ -21,6 +21,6 @@
 5.	看代表当前位置的图标<img src="https://upload-images.jianshu.io/upload_images/4572384-a8d3aab6f438535f.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
 6.	iOS 11.0.x有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
 7.	拔掉外设、关闭app（划掉）、点击停止按钮<img src="https://upload-images.jianshu.io/upload_images/4572384-ef2fb008620a0686.png" width="24">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。
-- 建议先插入外设再打开App
+- 可以在软件设置完成，点击开始<img src="https://upload-images.jianshu.io/upload_images/4572384-4047b2933bf62c30.png" width="24">按钮后再插入硬件
 
 
