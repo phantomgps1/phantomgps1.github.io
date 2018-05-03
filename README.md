@@ -29,7 +29,7 @@ app安装分为两步：<br>
 
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
-[其他常见问题](http://phantomgps.com/manual/faq)
+[其他常见问题](http://phantomgps.com/faq)
 
 QQ群：612428052<br>
 ![rqcode.png](http://upload-images.jianshu.io/upload_images/5872815-efba5722342dc399.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
