@@ -16,11 +16,10 @@
 	- “单点”指伪装的地址就是这一个点，位置不会移动。
 	- “起点”是指一条线路的起点，位置会在指定的位置上移动，选择起点之后还需要选终点，系统会计算出合适的路径，并沿着该路径移动。
 3.	点击屏幕左下角的开始<img src="https://upload-images.jianshu.io/upload_images/4572384-4047b2933bf62c30.png" width="24">按钮。
-4.	插入外设
-打开应用程序PhantomGPS，看屏幕右下角的USB图标， 绿色 <img src="https://upload-images.jianshu.io/upload_images/4572384-edee8b8c70b28077.png" width="28">表示外设识别成功，红色<img src="https://upload-images.jianshu.io/upload_images/4572384-c982944f3bf22c0e.jpg" width="18">表示不能识别。
-5.	看代表当前位置的图标<img src="https://upload-images.jianshu.io/upload_images/4572384-a8d3aab6f438535f.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
+4.	插入外设，观察屏幕右下角的USB图标， 绿色 <img src="https://upload-images.jianshu.io/upload_images/4572384-edee8b8c70b28077.png" width="28">表示外设识别成功，红色<img src="https://upload-images.jianshu.io/upload_images/4572384-c982944f3bf22c0e.jpg" width="18">表示不能识别。
+5.	查看代表当前位置的图标<img src="https://upload-images.jianshu.io/upload_images/4572384-a8d3aab6f438535f.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
 6.	iOS 11.0.x（2017.9.20-2017.11.1之间更新的版本）有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
-7.	拔掉外设、关闭app（划掉）、点击停止按钮<img src="https://upload-images.jianshu.io/upload_images/4572384-ef2fb008620a0686.png" width="24">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。
-- 可以在软件设置完成，点击开始<img src="https://upload-images.jianshu.io/upload_images/4572384-4047b2933bf62c30.png" width="24">按钮后再插入硬件
+7.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="https://upload-images.jianshu.io/upload_images/4572384-ef2fb008620a0686.png" width="24">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。
+
 
 
