@@ -16,9 +16,10 @@ app安装分为两步：<br>
 
 ### 演示视频
 [PhantomGPS操作演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==) <br>
-[如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)<br>
 [Pokemon Go实测](https://www.youtube.com/watch?v=RZR0HWu5794)(墙外，YouTube）<br>
 [充电版](https://youtu.be/RZR0HWu5794)(YouTube)
+[如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)<br>
+
 
 ### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
