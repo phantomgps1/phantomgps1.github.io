@@ -1,6 +1,7 @@
 ### Phantom GPS
-![product1.png](http://upload-images.jianshu.io/upload_images/5872815-dc2dc69e4028d067.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
-（如上图，插在手机上的小电路板便是）
+
+<img src="https://upload-images.jianshu.io/upload_images/4572384-3031eed22db622ab.jpeg" width="40%"/><br>
+（如上图，插在手机上的设备便是）
 
 PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
 ### 支持哪些设备
