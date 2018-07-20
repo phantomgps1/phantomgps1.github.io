@@ -24,7 +24,7 @@ app安装分为两步：<br>
 
 ### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
-购买链接：微店 [单独购买（￥360）](https://weidian.com/?userid=1183354983)、[团购(￥330）](https://h5.weidian.com/m/groupon/detail/index.html?itemId=2556775899)<br>
+购买链接：微店 [单独购买（￥360）](https://weidian.com/?userid=1183354983)、[~~团购(￥330）~~](https://h5.weidian.com/m/groupon/detail/index.html?itemId=2556775899)<br>
 (港澳台直郵，運費￥40）<br>
 购买时备注邮地址，用于获取苹果发送的测试邀请邀请邮件，从TestFlight下载App。<br>
 一个设备只发送一个邀请。多个手机共用设备的情况，用相同apple id登录，再下载TestFlight即可以安装。<br>
