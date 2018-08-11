@@ -9,9 +9,6 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 支持iOS 8.x、9.x、10.x、11.x<br>
 目前支持最新的版本是iOS11.4.1（15G77)，Beta版本未测试。
 
-### 定制自己的app
-github [demo](https://github.com/phantomgps/demo)
-
 ### 使用方法、操作手册
 app安装分为两步：<br>
 1. 从 app store下载TestFlight。<br>
