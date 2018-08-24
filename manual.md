@@ -12,8 +12,8 @@
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
 
 #### 二、使用企业签名安装(有闪退风险，TBD) 
-1.	用手机浏览器Safari打开这个[链接](http://phantomgps.com/manual)，并下载PhantomGPS<br>
-2.	打开系统设置-->通用-->描述文件，找到对应的选项，点信任<br>
+	用手机浏览器Safari打开这个[链接](http://phantomgps.com/manual)，并下载PhantomGPS<br>
+	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
 # 使用 #
 1.	拖动、缩放地图，找到想要去的地方。
 2.	在目标地点长按屏幕，根据弹出菜单选择单点或者起点
