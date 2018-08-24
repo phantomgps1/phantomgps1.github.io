@@ -1,8 +1,8 @@
-####  详细文档：
+###  详细文档：
 [用TestFlight安装App](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
 [使用方法](https://gitee.com/phantomgps/codes/uea2073c1v6r9hjkwbdsm52/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
 # 安装 #
-#### 一、使用TestFlight安装（安装麻烦；要定期升级；升级简单、稳定、不会闪退）
+### 一、使用TestFlight安装（安装麻烦；要定期升级；升级简单、稳定、不会闪退）
 1.	购买时留言邮箱地址，能收邮件的就行，**不需要**和Apple ID一致
 2.	从AppStore下载TestFlight <img src="https://apprecs.org/ios/images/app-icons/256/30/899247664.jpg" width="24"><br>
 3.	收邮件，打开苹果发送的测试邀请邮件，点击里面 View inTestFlight的链接。[示例图片1](https://upload-images.jianshu.io/upload_images/4572384-490e1ecde66bdea1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
@@ -11,9 +11,9 @@
 	- 如果从电脑收邮件，点击该链接会出现8位数的兑换码。在TestFlight上点击Redeem按钮，输入即可下载  [示例图片2：邀请码](https://gitee.com/phantomgps/codes/94s1g6ibmhpknxrdfojaw79/raw?blob_name=redeemcode.png)<br>
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
 
-#### 二、使用企业签名安装(有闪退风险，TBD) 
-	用手机浏览器Safari打开这个[链接](http://phantomgps.com/manual)，并下载PhantomGPS<br>
-	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
+### 二、使用企业签名安装(有闪退风险，TBD)<br>
+   用手机浏览器Safari打开这个[链接](http://phantomgps.com/manual)，并下载PhantomGPS<br>
+   打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
 # 使用 #
 1.	拖动、缩放地图，找到想要去的地方。
 2.	在目标地点长按屏幕，根据弹出菜单选择单点或者起点
