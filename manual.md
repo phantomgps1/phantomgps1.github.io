@@ -1,7 +1,7 @@
 ###  详细文档：
 [用TestFlight安装App](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
 [使用方法](https://gitee.com/phantomgps/codes/uea2073c1v6r9hjkwbdsm52/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) <br>
-## 安装 ##
+## 安装 
 ### 一、使用TestFlight安装（安装麻烦；要定期升级；升级简单、稳定、不会闪退）
 1.	购买时留言邮箱地址，能收邮件的就行，**不需要**和Apple ID一致
 2.	从AppStore下载TestFlight <img src="https://apprecs.org/ios/images/app-icons/256/30/899247664.jpg" width="24"><br>
@@ -13,8 +13,9 @@
 
 ### 二、使用企业签名安装(有闪退风险，TBD) 
 1.	用手机浏览器Safari打开这个[链接](http://phantomgps.com/manual)，并下载PhantomGPS<br>
-2.	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
-## 使用 ##
+2.	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 
+
+## 使用 
 1.	拖动、缩放地图，找到想要去的地方。
 2.	在目标地点长按屏幕，根据弹出菜单选择单点或者起点
 	- “单点”指伪装的地址就是这一个点，位置不会移动。
