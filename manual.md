@@ -28,10 +28,10 @@ Phantom GPS 操作手册
 6.	iOS 11.0.x（2017.9.20-2017.11.1之间更新的版本）有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
 7.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="https://upload-images.jianshu.io/upload_images/4572384-ef2fb008620a0686.png" width="24">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。<br>
 
-#### 升级
+#### 升级、更新App
 
-打开TestFlight点update按钮<br>
-或者点击该[链接](https://www.pgyer.com/phantomgps)安装最新版本
+TestFlight用户，可以打开TestFlight，点update按钮升级<br>
+企业签名用户点击该[链接](https://www.pgyer.com/phantomgps)安装最新版本
 
 #### 详细文档：
 
