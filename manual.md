@@ -1,6 +1,7 @@
 Phantom GPS 操作手册
 ==== 
-[视频演示:如何安装PhantomGPS](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
+[PhantomGPS教学视频：安装](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
+[PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 #### 安装 App
 
  ***方法1***: 使用TestFlight安装（需要邮件；要定期升级；升级简单、稳定、不闪退）
