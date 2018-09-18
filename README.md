@@ -7,7 +7,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
 支持iOS 8.x、9.x、10.x、11.x<br>
-目前支持最新的版本是iOS12.0（16A366)，Beta版本未测试。
+目前支持最新的版本是<font  color="red">iOS12.0（16A366)</font>Beta版本未测试。
 
 ### 使用方法、操作手册
 参考：[操作手册](http://phantomgps.com/manual)  <br>
