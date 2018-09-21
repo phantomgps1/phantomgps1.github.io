@@ -27,7 +27,7 @@ Phantom GPS 操作手册
 3.	点击屏幕左下角的开始<img src="https://upload-images.jianshu.io/upload_images/4572384-4047b2933bf62c30.png" width="24">按钮。
 4.	插入外设，观察屏幕右下角的USB图标， 绿色 <img src="https://upload-images.jianshu.io/upload_images/4572384-edee8b8c70b28077.png" width="28">表示外设识别成功，红色<img src="https://upload-images.jianshu.io/upload_images/4572384-c982944f3bf22c0e.jpg" width="18">表示不能识别。
 5.	查看代表当前位置的图标<img src="https://upload-images.jianshu.io/upload_images/4572384-a8d3aab6f438535f.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
-6.	iOS 11.0.x（2017.9.20-2017.11.1之间更新的版本）有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
+6.	iOS 11.<font  color="red">0</font>.x（版本号第二位不是0的忽略此条）有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
 7.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="https://upload-images.jianshu.io/upload_images/4572384-ef2fb008620a0686.png" width="24">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。<br>
 
 #### 升级、更新App
