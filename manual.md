@@ -13,7 +13,7 @@ Phantom GPS 操作手册
 	- 如果从电脑收邮件，点击该链接会出现8位数的兑换码。在TestFlight上点击Redeem按钮，输入即可下载  [示例图片2：邀请码](https://gitee.com/phantomgps/codes/94s1g6ibmhpknxrdfojaw79/raw?blob_name=redeemcode.png)<br>
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
 
- ***方法2***: 使用企业签名安装(不需要邮件、不绑Apple ID；) 
+ ***方法2***: 使用企业签名安装(不需要邮件、不绑Apple ID；有闪退风险) 
 1.	用手机浏览器Safari打开这个[链接](https://www.pgyer.com/phantomgps)，并下载PhantomGPS<br>
 2.	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
 
