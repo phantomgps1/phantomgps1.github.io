@@ -31,5 +31,5 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 [其他常见问题](http://phantomgps.com/faq)
 
 QQ群：885296642<br>
-![qun2.jpg](https://upload-images.jianshu.io/upload_images/4572384-4fbf695c190765ec.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
+![qun2.jpg](https://upload-images.jianshu.io/upload_images/4572384-716070d3122f1085.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/160)
 
