@@ -18,7 +18,8 @@ Phantom GPS 操作手册
 	- 如果从手机收邮件，该链接会直接跳转到TestFlight，并带入兑换码，打开TestFlight后可以看到PhantomGPS的安装选项，不需要输入兑换码。
 	- 如果从电脑收邮件，点击该链接会出现8位数的兑换码。在TestFlight上点击Redeem按钮，输入即可下载  [示例图片2：邀请码](https://gitee.com/phantomgps/codes/94s1g6ibmhpknxrdfojaw79/raw?blob_name=redeemcode.png)<br>
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
-#### 使用
+
+#### 使用<br>
 
 1.	拖动、缩放地图，找到想要去的地方。
 2.	在目标地点长按屏幕，根据弹出菜单选择"单点"或者"起点"
