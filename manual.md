@@ -3,12 +3,12 @@ Phantom GPS 操作手册
 [PhantomGPS教学视频：安装](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 
-#### 升级
+### 升级
 企业签名用户从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)<br>
 TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
 
 
-#### 安装 App
+### 安装 App
 
  ***安装方法1***: 使用企业签名安装(不需要邮件、不绑Apple ID) 
 1.	用手机浏览器Safari打开这个[链接](https://www.pgyer.com/phantomgps)，并下载PhantomGPS<br>
@@ -23,7 +23,7 @@ TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](
 	- 如果从电脑收邮件，点击该链接会出现8位数的兑换码。在TestFlight上点击Redeem按钮，输入即可下载  [示例图片2：邀请码](https://gitee.com/phantomgps/codes/94s1g6ibmhpknxrdfojaw79/raw?blob_name=redeemcode.png)<br>
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
 
-#### 使用<br>
+### 使用<br>
 
 1.	拖动、缩放地图，找到想要去的地方。
 2.	在目标地点长按屏幕，根据弹出菜单选择"单点"或者"起点"
@@ -37,7 +37,7 @@ TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](
 
 
 
-#### 详细文档：
+### 详细文档：
 
 [用TestFlight安装App](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
 [使用方法](https://gitee.com/phantomgps/codes/uea2073c1v6r9hjkwbdsm52/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) 
