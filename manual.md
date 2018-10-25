@@ -5,7 +5,7 @@ Phantom GPS 操作手册
 
 ### 升级
 企业签名用户从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)<br>
-TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
+TestFlight用户，可以打开TestFlight，点update按钮升级。 [TestFlight升级视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
 
 
 ### 安装 App
