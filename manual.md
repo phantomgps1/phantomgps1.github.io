@@ -7,13 +7,14 @@ Phantom GPS 操作手册
 企业签名用户从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)<br>
 TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
 
+
 #### 安装 App
 
- ***方法1***: 使用企业签名安装(不需要邮件、不绑Apple ID) 
+ ***安装方法1***: 使用企业签名安装(不需要邮件、不绑Apple ID) 
 1.	用手机浏览器Safari打开这个[链接](https://www.pgyer.com/phantomgps)，并下载PhantomGPS<br>
-2.	打开系统设置-->通用-->描述文件，找到对应的选项，点信任 <br>
+2.	打开系统设置-->通用-->设备管理及描述文件，找到对应的选项，点信任 <br>
 
- ***方法2***: 使用TestFlight安装（需要邮件；要定期升级；升级简单）
+ ***安装方法2***: 使用TestFlight安装（需要邮件；要定期升级；升级简单）
 1.	购买时留言邮箱地址，能收邮件的就行，**不需要**和Apple ID一致
 2.	从AppStore下载TestFlight <img src="https://apprecs.org/ios/images/app-icons/256/30/899247664.jpg" width="24"><br>
 3.	收邮件，打开苹果发送的测试邀请邮件，点击里面 View inTestFlight的链接。[示例图片1](https://upload-images.jianshu.io/upload_images/4572384-490e1ecde66bdea1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
