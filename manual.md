@@ -3,8 +3,8 @@ Phantom GPS 操作手册
 [PhantomGPS教学视频：安装](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 
-#### 升级、更新App
-企业签名用户点击该[链接](https://www.pgyer.com/phantomgps)安装最新版本<br>
+#### 升级
+企业签名用户从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)<br>
 TestFlight用户，可以打开TestFlight，点update按钮升级[视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
 
 #### 安装 App
