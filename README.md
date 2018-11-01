@@ -22,9 +22,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 ### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买链接：[微店 （￥360）](https://weidian.com/?userid=1183354983)<br>
-(港澳台暂停邮寄，请寻找其他途径购买）<br>
-购买时备注邮地址，用于获取苹果发送的测试邀请邀请邮件，从TestFlight下载App。<br>
-一个设备只发送一个邀请。多个手机共用设备的情况，用相同apple id登录，再下载TestFlight即可以安装。<br>
+(港澳台、海外暂停邮寄，可尝试转运公司其他途径购买）<br>
 
 ### 常见问题、交流
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
