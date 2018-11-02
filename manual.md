@@ -47,5 +47,3 @@ TestFlight用户，可以打开TestFlight，点update按钮升级。 [TestFlight
 1.	充电：需要打开PhantomGPS App，将外设插入手机，再将充电线插入外设尾部，插的时候需要稍微用力，将充电头插到底。
 2.	（TestFlight）多个手机共用：由于邀请码只能使用一次，且App和苹果账号（Apple ID）绑定，不同手机需要用相同的账号登录，然后重新下载TestFlight（如之前有下载要删除重下）就可以看到安装选项，安装完可以切换到其他苹果账号。手机多的用户建议使用企业签名安装，参考安装方法2<br>
 <br>
-
-[返回](http://phantomgps.com/)
