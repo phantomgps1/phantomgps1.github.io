@@ -4,9 +4,8 @@ Phantom GPS 操作手册
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 
 ### 升级
-企业签名用户从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)，密码从微店咨询店家获取<br>
-TestFlight用户，可以打开TestFlight，点update按钮升级。 [TestFlight升级视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
-
+1) 用TestFlight安装的用户：可以打开TestFlight，点update按钮升级。 [TestFlight升级视频教程](http://player.youku.com/embed/XMzgyNjgzNTc5Mg==)<br>
+2) 用企业签名安装的用户：从这里下载最新版本：[链接](https://www.pgyer.com/phantomgps)，密码从微店咨询店家获取<br>
 
 ### 安装 App
 
