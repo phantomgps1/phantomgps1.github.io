@@ -17,12 +17,10 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 [PhantomGPS教学视频：安装](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 [Pokemon Go实测](https://youtu.be/WFP0DbKKfWs)(By Walker, YouTube）<br>
-[演示](http://player.youku.com/embed/XMzI2NzQ1NzEyOA==) <br>
-[如何实时修改微信位置](http://player.youku.com/embed/XMjcwODc2NzAzNg==)<br>
+
 ### 如何购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买链接：[微店 （￥360）](https://weidian.com/?userid=1183354983) 7天无理由退货退款，保修三个月。<br>
-(港澳台、海外暂停邮寄，可尝试转运公司或其他途径购买）<br>
 
 
 ### 常见问题、交流
