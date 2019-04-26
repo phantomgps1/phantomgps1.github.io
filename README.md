@@ -18,8 +18,8 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
 [Pokemon Go实测](https://youtu.be/WFP0DbKKfWs)(By Walker, YouTube）<br>
 
-### 如何购买
-**外设**需要购买,通过快递才能到你手上，不是软件。<br>
+### 购买
+**外设**需要购买,通过快递才能到你手上，不是软件。一个￥360<br>
 
 
 ### 常见问题、交流
