@@ -27,5 +27,5 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](http://phantomgps.com/faq)
 
-客服微信：<br>
+客服:用微信扫二维码<br>
 <img src="http://phantomgps.com/assets/wcqr.jpg" width="40%" ><br>
