@@ -1,6 +1,6 @@
 ### Phantom GPS
 
-<img src="http://phantomgps.com/assets/v1v2.jpg" width="70%" ><br>
+<img src="http://phantomgps.com/assets/both.jpg" width="60%" ><br>
 （PhantomGPS -- since 2016）
 
 PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
@@ -28,4 +28,4 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 [其他常见问题](http://phantomgps.com/faq)
 
 客服:用微信扫二维码<br>
-<img src="http://phantomgps.com/assets/wcqr.jpg" width="40%" ><br>
+<img src="http://phantomgps.com/assets/wcqr.jpg" width="30%" ><br>
