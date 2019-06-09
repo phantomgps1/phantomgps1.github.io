@@ -13,10 +13,10 @@ Phantom GPS 操作手册
  ***安装方法1***: 使用TestFlight安装（需要邮件；要定期升级；升级简单）
 1.	购买时留言邮箱地址，能收邮件的就行，**不需要**和Apple ID一致
 2.	从AppStore下载TestFlight <img src="https://apprecs.org/ios/images/app-icons/256/30/899247664.jpg" width="24"><br>
-3.	收邮件，打开苹果发送的测试邀请邮件，点击里面 View inTestFlight的链接。[示例图片1：哪个链接](https://upload-images.jianshu.io/upload_images/4572384-490e1ecde66bdea1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
+3.	收邮件，打开苹果发送的测试邀请邮件，点击里面 View inTestFlight的链接。[示例图片1：哪个链接](http://phantomgps.com/assets/viewintestflight.png)<br>
 
 	- 如果用safari浏览器打开邮件，该链接会直接跳转到TestFlight，跳转后可以看到PhantomGPS的安装选项，不需要输入兑换码。
-	- 如果点击链接没有跳转到Testflight（比如从电脑或者某些邮件客户端），新的页面会有在第三行显示 <font  color="red">8位粗体的字母</font>，这个就是兑换码  [示例图片2：兑换码](https://gitee.com/phantomgps/codes/94s1g6ibmhpknxrdfojaw79/raw?blob_name=redeemcode.png)。选择并复制，回到TestFlight，点击右上角的Redeem按钮，粘贴过去（或手动输入）即可下载<br>
+	- 如果点击链接没有跳转到Testflight（比如从电脑或者某些邮件客户端），新的页面会有在第三行显示 <font  color="red">8位粗体的字母</font>，这个就是兑换码  [示例图片2：兑换码](http://phantomgps.com/assets/redeemcode.png)。选择并复制，回到TestFlight，点击右上角的Redeem按钮，粘贴过去（或手动输入）即可下载<br>
 4.	下载后在桌面上出现PhantomGPS的图标 表示安装完成。<br>
 
 ***安装方法2***: 使用企业签名安装(有某些时间段不能用的风险) 
