@@ -25,26 +25,22 @@ Phantom GPS 操作手册
 2.	打开系统设置-->通用-->设备管理及描述文件，找到对应的选项，点信任。 <br>
 
 ### 使用<br>
-
-1.	拖动、缩放地图，找到想要去的地方。
-2.	在目标地点长按屏幕，根据弹出菜单选择"单点"或者"起点"
-	- “单点”指伪装的地址就是这一个点，位置不会移动；左右拖动地图，微调位置，点确定。
-	- “起点”是指一条线路的起点，位置会在指定的位置上移动，选择起点之后还需要选终点，系统会计算出合适的路径，并沿着该路径移动。
-3.	点击屏幕左下角的开始<img src="http://phantomgps.com/assets/play@2x.png" width="18">按钮。
+0.	模式选择
+	- “位置”指伪装的地址就是固定的一点，不会移动；
+	- “扫街”是指设置起点、终点和途经点之后，系统会计算出合适的路线，并沿该路线移动。
+1.	拖动、缩放地图，移动目的地址到屏幕中心的水滴正下方。
+2.	位置模式下，点屏幕右下角的小飞机<img src="http://phantomgps.com/assets/flyto_2.png" width="18">图标，完成位置设置。
+3.	扫街模式下，点选择（增加途经点）或者完成（终点）按钮，完成路径选择。
 4.	插入外设，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设识别成功，红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示不能识别。
 5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
-6.	iOS 11.<font  color="red">0</font>.x（版本号第二位不是0的忽略此条）有15公里的距离限制，11.1之后以及10.3.3之前的版本无此限制。
-7.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。<br>
+6.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。<br>
 
-
-
-### 详细文档：
-
-[用TestFlight安装App](https://gitee.com/phantomgps/codes/2xhf935ukc84zilov1asd31/raw?blob_name=%E4%BB%8ETestFlight%E4%B8%8B%E8%BD%BDPhantomGPS.pdf) <br>
-[使用方法](https://gitee.com/phantomgps/codes/uea2073c1v6r9hjkwbdsm52/raw?blob_name=PhantomGPS%E4%BD%BF%E7%94%A8%E6%8C%87%E5%AF%BC.pdf) 
  
 #### Tips
-
-1.	充电：设备本身没有电池，不需要给设备充电。尾部的插口可以插苹果充电器，给手机充电用的，为需要长时间修改用户准备的。
-2.	（TestFlight）多个手机共用：由于邀请码只能使用一次，且App和苹果账号（Apple ID）绑定，不同手机需要用相同的账号登录，然后重新下载TestFlight（如之前有下载要删除重下）就可以看到安装选项，安装完可以切换到其他苹果账号。<br>
+1.	Google地图在大陆地区无法打开.
+2.	五角星图标<img src="http://phantomgps.com/assets/star.png" width="18">可以搜藏位置和路径，打开右上角的文件夹图标可以编辑。
+3.	经纬度输入的格式为："纬度，经度，海拔"，只支持百分数格式，不支持度分秒格式，例如"39.9051667,116.3968585"，海拔可以不填.
+4.	充电：设备本身没有电池，不需要给设备充电。尾部的插口可以插苹果充电器，给手机充电用的，为需要长时间修改用户准备的。
+5.	（TestFlight）多个手机共用：由于邀请码只能使用一次，且App和苹果账号（Apple ID）绑定，不同手机需要用相同的账号登录，然后重新下载TestFlight（如之前有下载要删除重下）就可以看到安装选项，安装完可以切换到其他苹果账号。<br>
+6.	iOS 11.<font  color="red">0</font>.x和iOS <font  color="red">13.x</font>.有15公里的距离限制，无法移动位置到距离当前位置15公里之外的地方
 <br>
