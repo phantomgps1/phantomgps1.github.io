@@ -14,8 +14,9 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 
 ### 演示视频
 
-[PhantomGPS教学视频：安装](http://player.youku.com/embed/XMzgyNTM5MTc2MA==)<br>
-[PhantomGPS教学视频：使用](http://player.youku.com/embed/XMzgyNjIyODY5Mg==)<br>
+[PhantomGPS教学视频：安装](http://player.youku.com/embed/XNDIyMjUyMzA4OA==)<br>
+[PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
+[用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 [Pokemon Go实测](https://youtu.be/WFP0DbKKfWs)(By Walker, YouTube）<br>
 
 ### 购买
