@@ -11,7 +11,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 <font  color="red">iOS 13.0以后的版本有距离限制，只能在15公里范围内修改.</font> <br>
 
 ### 使用方法、操作手册
-参考：[操作手册](http://phantomgps.com/manual)  <br>
+不使用企业签名，不会掉签。参考：[操作手册](http://phantomgps.com/manual)  <br>
 
 ### 演示视频
 
@@ -25,7 +25,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 购买链接:[微信商城二维码](http://phantomgps.com/assets/gh_e91036b77b64_430.jpg)或者[微店](https://weidian.com/?userid=1183354983) 价格：<font  color="red">￥300</font> 包含大陆地区的运费<br>
 
 
-### 常见问题、交流
+### 常见问题
 [如何使用TestFlight安装软件](https://jingyan.baidu.com/article/63f23628276e1d0209ab3d10.html)<br>
 [其他常见问题](http://phantomgps.com/faq)
 
