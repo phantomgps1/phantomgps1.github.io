@@ -37,5 +37,5 @@ Phantom GPS 操作手册
 4.	充电：设备本身没有电池，不需要给设备充电。尾部的插口可以插苹果充电器，给手机充电用的，为需要长时间修改用户准备的。
 5.	（TestFlight）多个手机共用：由于邀请码只能使用一次，且App和苹果账号（Apple ID）绑定，不同手机需要用相同的账号登录，然后重新下载TestFlight（如之前有下载要删除重下）就可以看到安装选项，安装完可以切换到其他苹果账号。<br>
 6.	导入gpx文件之前，需要先切换到扫街界面。<br>
-7.	iOS 11.<font  color="red">0</font>.x和iOS <font  color="red">13.x</font>.有15公里的距离限制，无法移动位置到距离当前位置15公里之外的地方
+7.	iOS 11.<font  color="red">0</font>.x和iOS <font  color="red">13.x</font>.有15公里的距离限制，无法移动位置到距离当前位置15公里之外的地方.[临时解决办法(视频指导）](http://player.youku.com/embed/XNDM3NDM3MTg2OA==)
 <br>
