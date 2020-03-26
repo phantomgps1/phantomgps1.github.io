@@ -4,16 +4,10 @@ Phantom GPS II 操作手册
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 使用前，需要先从[这里](http://phantomgps.com)购买设备。
 
-### 设备使用方法<br>
-
-#### LED
-1、	电源<br>
-2、	充电/低电量<br>
-#### 按键
-1、	电源开关<br>
-2、	方向摇杆<br>
 ### 安装 App<br>
    AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
+
+
 ### 软件使用方法<br>
 0.	模式选择
 	- “位置”指伪装的地址就是固定的一点，不会移动；
@@ -25,6 +19,12 @@ Phantom GPS II 操作手册
 5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
 6.	拔掉外设、关闭app（结束运行）、点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">都可停止位置模拟。根据手机所在环境的不同，恢复的时间从十几秒到几分钟不等，手机信号好（才能获取位置信息）的地方恢复快些。<br>
 
+#### LED
+1、	电源<br>
+2、	充电/低电量<br>
+#### 按键
+1、	电源开关<br>
+2、	方向摇杆<br>
  
 #### Tips
 1.	五角星图标<img src="http://phantomgps.com/assets/star.png" width="18">可以收藏位置和路径，打开右上角的文件夹图标可以编辑。
