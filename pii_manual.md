@@ -2,19 +2,16 @@ Phantom GPS II 操作手册
 ==== 
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
-
 使用前，需要先从[这里](http://phantomgps.com)购买设备。
 
 ### 设备使用方法<br>
 
-#### LED
-1、	电源
-2、	充电/低电量
+## LED
+1、	电源<br>
+2、	充电/低电量<br>
 #### 按键
-1、	电源开关
-2、	方向摇杆
-	
-	
+1、	电源开关<br>
+2、	方向摇杆<br>
 ### 安装 App<br>
    AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 ### 软件使用方法<br>
@@ -31,8 +28,6 @@ Phantom GPS II 操作手册
  
 #### Tips
 1.	五角星图标<img src="http://phantomgps.com/assets/star.png" width="18">可以收藏位置和路径，打开右上角的文件夹图标可以编辑。
-2.	经纬度输入的格式为："纬度，经度，海拔"，只支持百分数格式，不支持度分秒格式，例如"39.9051667,116.3968585"，海拔可以不填.
-3.	充电：设备本身没有电池，不需要给设备充电。尾部的插口可以插苹果充电器，给手机充电用的，为需要长时间修改用户准备的。
-4.	（TestFlight）多个手机共用：由于邀请码只能使用一次，且App和苹果账号（Apple ID）绑定，不同手机需要用相同的账号登录，然后重新下载TestFlight（如之前有下载要删除重下）就可以看到安装选项，安装完可以切换到其他苹果账号。<br>
-5.	导入gpx文件之前，需要先切换到扫街界面。<br>
+2.	经纬度输入的格式为："纬度，经度"，只支持百分数格式，不支持度分秒格式，例如"39.9051667,116.3968585"
+3.	导入gpx文件之前，需要先切换到扫街界面。<br>
 
