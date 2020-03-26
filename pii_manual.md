@@ -2,7 +2,7 @@ Phantom GPS II 操作手册
 ==== 
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
-使用前，需要先从[这里](http://phantomgps.com)购买设备。
+使用前，需要先购买设备[链接](http://phantomgps.com)
 
 ### 安装 App<br>
    AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
