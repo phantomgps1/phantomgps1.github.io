@@ -3,11 +3,15 @@ Phantom GPS II 操作手册
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
-
-### 设备使用方法<br>
 	使用前，需要先从phantomgps.com购买设备，插上设备修改才能生效。<br>
+### 设备使用方法<br>
+
 ##LED<br>
+	1、电源<br>
+	2、充电/低电量<br>
 ##按键<br>
+	1、电源开关
+	2、方向摇杆
 	
 	
 ### 安装 App<br>
