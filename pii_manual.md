@@ -3,7 +3,7 @@ Phantom GPS II 操作手册
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
-	使用前，需要先从phantomgps.com购买设备，插上设备修改才能生效。<br>
+	使用前，需要先从phantomgps.com购买设备，插上设备修改才能生效。
 	
 
 ### 设备使用方法<br>
@@ -17,7 +17,7 @@ Phantom GPS II 操作手册
 	
 	
 ### 安装 App<br>
-   AppStore 搜索PhantomGPSII （<img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18">）, 并下载。
+   AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 ### 软件使用方法<br>
 0.	模式选择
 	- “位置”指伪装的地址就是固定的一点，不会移动；
