@@ -4,13 +4,15 @@ Phantom GPS II 操作手册
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
 
-### 安装 App
-
-   从App
-	- 如果用safari浏览器打开邮件，该链接会直接跳转到TestFlight，跳转后可以看到PhantomGPS的安装选项，不需要输入兑换码。 store
-	- 如果用safari浏览器打开邮件，该链接会直接跳转到TestFlight，跳转后可以看到PhantomGPS的安装选项，不需要输入兑换码。
-
-### 使用<br>
+### 设备使用方法<br>
+	使用前，需要先从phantomgps.com购买设备，插上设备修改才能生效。<br>
+##LED<br>
+##按键<br>
+	
+	
+### 安装 App<br>
+   AppStore 搜索PhantomGPSII<img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18">, 并下载
+### 软件使用方法<br>
 0.	模式选择
 	- “位置”指伪装的地址就是固定的一点，不会移动；
 	- “扫街”是指设置起点、终点和途经点之后，系统会计算出合适的路线，并沿该路线移动。
