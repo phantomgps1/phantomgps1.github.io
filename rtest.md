@@ -6,9 +6,9 @@
 PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
 
 
-|            | Phantom gps   |  Phantom gps II  |
+|            | Phantomgps   |  Phantom gps II  |
 | --------   | -----:     | :----: |
-| 安装方法     | 需要邀请码  |   AppStore直接下载    |
+| 安装方法     | 需要邀请码  |   AppStore下载    |
 | 定期更新     | 三个月      |   不会过期           |
 | 有效时间     | 拔掉失效    |   拔掉依然有效        |
 |限制15公里 | iOS13有    |   无          |
@@ -19,6 +19,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 手册   |   [链接1](http://phantomgps.com/manual)      |   [链接2](http://phantomgps.com/pii_manual)    |
 
 <font  color="red">*注1: 远距离操作比较麻烦，且不稳定</font>
+
 
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad、iPod<br>
