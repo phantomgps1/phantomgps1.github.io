@@ -3,8 +3,8 @@ Phantom GPS II 操作手册
 [PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
-<font  color="red" size=72>使用前，需要先[购买](http://phantomgps.com)设备.</font><br>
-<font  color="red">iOS 13.0以后的版本有距离限制，只能在15公里范围内修改.</font><br>
+<font  color="red"size=72>先购买</font><br>
+<font  color="red">使用前，需要先[购买](http://phantomgps.com)设备.</font><br>
 ### 安装 App<br>
    [点击安装](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 
