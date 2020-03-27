@@ -11,13 +11,13 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 安装方法     | 需要邀请码  |   AppStore下载    |
 | 定期更新     | 三个月      |   不会过期           |
 | 有效时间     | 拔掉失效    |   拔掉依然有效        |
-|限制15公里 | iOS13有    |   无          |
+|限制15公里 | iOS13有    |   无限制          |
 | 体积        | 小         |   较大        |
 | 需要充电 |    NO      |   YES    |
 | 有摇杆   |   NO       |   YES    |
 | 支持iOS13   |   <font  color="red">YES*</font>      |   YES    |
 | 价格   |   300     |   399    |
-| 手册   |   [链接1](http://phantomgps.com/manual)      |   [链接2](http://phantomgps.com/pii_manual)    |
+| 手册   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
 <font  color="red">*注1: 远距离操作比较麻烦，且不稳定</font><br>
 ### 支持哪些设备
