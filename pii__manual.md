@@ -4,7 +4,7 @@ Phantom GPS II 操作手册
 [视频：用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
 使用前，需要先 [购买](http://phantomgps.com)<font  color="red">外接设备</font><br>
-### 软件安装
+#### 软件安装
    [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 
 #### 连接设备
@@ -13,12 +13,13 @@ Phantom GPS II 操作手册
 2.	将设备的Lightning连接线插入手机充电口<br>
 4.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）<br>
 5.	手机右上角充电🔋指示灯亮，表示设备已经完成第一步连接（1⃣️）<br>
-6.	打开PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功（2⃣️）<br>
+6.	打开应用软件 PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功（2⃣️）<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
 	1）重新插拔连接线，或者<br>
-	2）重启GPS设备，或者<br>
+	2）重启外接设备，或者<br>
 	3）重启手机<br>
-### 软件使用方法<br>
+	
+#### 软件使用方法<br>
 0.	模式选择
 	- “位置”指伪装的地址就是固定的一点，不会移动；
 	- “扫街”是指设置起点、终点和途经点之后，系统会计算出合适的路线，并沿该路线移动。
