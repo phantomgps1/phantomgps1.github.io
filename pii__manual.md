@@ -1,18 +1,18 @@
 Phantom GPS II 操作手册
 ==== 
-[PhantomGPS教学视频：使用](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
-[用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
+[视频：App使用方法](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
+[视频：用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
-使用前，需要先 [购买](http://phantomgps.com)<font  color="red">设备.</font><br>
-### 安装 App<br>
-   [点击安装](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
+使用前，需要先 [购买](http://phantomgps.com)<font  color="red">外接设备</font><br>
+### 软件安装
+   [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 
-#### 连接
+#### 连接设备
 1.	按power键启动外设<br>
 2.	解锁手机屏幕<br>
 2.	将设备的Lightning连接线插入手机充电口<br>
-4.	等待手机屏幕提示"是否信任此电脑"，点确定，并输入密码（如果有）<br>
-5.	电池充电🔋指示灯亮，表示设备已经连接（1⃣️）<br>
+4.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）<br>
+5.	手机右上角充电🔋指示灯亮，表示设备已经完成第一步连接（1⃣️）<br>
 6.	打开PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功（2⃣️）<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
 	1）重新插拔连接线，或者<br>
