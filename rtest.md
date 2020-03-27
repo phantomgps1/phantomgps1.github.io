@@ -3,13 +3,13 @@
 <img src="http://phantomgps.com/assets/both.jpg" width="60%" ><br>
 （PhantomGPS -- since 2016）
 
-PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。
+PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
 
 
 |            | PhantomGPS  |  PhantomGPS II  |
 | --------   | -----:     | :----: |
 | 安装方法     | 需要邀请码  |   AppStore下载    |
-| 定期更新     | 三个月      |   不会过期           |
+| 软件过期     | 90天更新      |   不会过期           |
 | 有效时间     | 拔掉失效    |   拔掉依然有效        |
 |限制15公里 | iOS13有    |   无限制          |
 | 体积        | 小         |   较大        |
