@@ -17,9 +17,9 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 有摇杆   |   NO       |   YES    |
 | 支持iOS13   |   <font  color="red">YES*</font>      |   YES    |
 | 价格   |   300     |   399    |
-| 手册   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
+| 详细用法   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
-<font  color="red">*注1: 远距离操作比较麻烦，且不稳定</font><br>
+<font  color="red">*注1: 远距离操作麻烦，稳定性较差</font><br>
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
 支持iOS 9.0以后的系统<br>
