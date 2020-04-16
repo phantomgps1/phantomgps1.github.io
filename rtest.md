@@ -16,7 +16,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 需要充电 |    NO      |   YES    |
 | 有摇杆   |   NO       |   YES    |
 | 支持iOS13   |   <font  color="red">YES*</font>      |   YES    |
-| 价格   |   300     |   399    |
+| 价格   |   299     |   399    |
 | Pokemon go   |   支持       |   未测试    |
 | 说明书   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
