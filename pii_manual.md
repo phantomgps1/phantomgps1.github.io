@@ -1,6 +1,6 @@
 Phantom GPS II 操作手册
 ==== 
-[视频：设备使用方法 (tobe done)](http://www.xxxxgpsmock.com)<br>
+[视频：设备使用方法 (Tobe done)](http://www.xxxxgpsmock.com)<br>
 [视频：App使用方法](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [视频：用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
@@ -12,7 +12,7 @@ Phantom GPS II 操作手册
 1.	长按2秒power键启动设备。<br>
 2.	解锁手机屏幕。<br>
 2.	将设备的Lightning连接线插入手机充电口。<br>
-4.	手机右上角充电🔋指示灯亮，或者提示"可能不支持此配件"，点确定。<br>
+4.	手机右上角充电🔋指示灯亮；或者提示"可能不支持此配件"，点确定。<br>
 5.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）。<br>
 6.	打开应用软件 PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功。<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
@@ -48,7 +48,7 @@ Phantom GPS II 操作手册
 2.	电源开关
 	- 长按两秒开机/关机。<br>
 3.	方向摇杆<br>
-	- 略。<br>
+	- 灵敏度一般，响应时间约0.5秒<br>
  
 #### Tips
 1.	五角星图标<img src="http://phantomgps.com/assets/star.png" width="18">可以收藏位置和路径，打开右上角的文件夹图标可以编辑。
