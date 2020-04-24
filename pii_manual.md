@@ -12,7 +12,7 @@ Phantom GPS II 操作手册
 1.	长按2秒power键启动设备<br>
 2.	解锁手机屏幕<br>
 2.	将设备的Lightning连接线插入手机充电口<br>
-4.	手机右上角充电🔋指示灯亮，或者提示"可能不支持此配件"<font color red>(正常现象)</font><br>
+4.	手机右上角充电🔋指示灯亮，或者提示"可能不支持此配件"，点确定<br>
 5.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）<br>
 6.	打开应用软件 PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
@@ -29,16 +29,16 @@ Phantom GPS II 操作手册
 3.	位置模式下，点屏幕右下角的小飞机<img src="http://phantomgps.com/assets/flyto_2.png" width="18">图标，完成位置设置。
 4.	扫街模式下，点选择（增加途经点）或者完成（终点）按钮，完成路径选择。
 5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
-6.	点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机都可停止位置模拟。<br>
-	<font color red>拔掉外设、关闭app都无法恢复真实位置.</font>
+6.	点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机可停止位置模拟。<br>
+	拔掉外设、关闭app都无法恢复真实位置.
 
 #### LED
-1、	电源<br>
-	开机时蓝灯会常亮<br>
-2、	充电/低电量<br>
-	电池充电时，红灯会以每秒一次的频率闪烁<br>
-	充满电时，红灯常亮<br>
-	低电量时，红灯会以每秒2次的频率快速闪烁<br>
+1.	电源<br>
+	-开机时蓝灯会常亮<br>
+2.	充电/低电量<br>
+	-电池充电时，红灯会以每秒一次的频率闪烁<br>
+	-充满电时，红灯常亮<br>
+	-低电量时，红灯会以每秒2次的频率快速闪烁<br>
 
 #### 按键
 1、	电源开关<br>
