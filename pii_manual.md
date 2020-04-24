@@ -4,7 +4,7 @@ Phantom GPS II 操作手册
 [视频：App使用方法](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [视频：用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
-使用前，需要先 [购买](http://phantomgps.com)<font  color="red">外接设备</font><br>
+	使用前，需要先 [购买](http://phantomgps.com)<font  color="red">外接设备</font><br>
 #### 软件安装
    [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 
@@ -47,7 +47,7 @@ Phantom GPS II 操作手册
 		略。<br>
 
 #### 充电
-	电池充满电以后可以连续工作7-8小时。<br>
+1.	电池充满电以后可以连续工作7-8小时。<br>
 	用配套的Micro USB充电线给设备充电。<br>
 	设备连接手机并插上充电器时，会同时给手机和设备充电。给手机充电电流低于1A，效率不高。<br>
 	未插上充电器时，手机屏幕（可能）会显示正在充电图标，但并不会给手机充电<br>
