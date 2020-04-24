@@ -9,11 +9,11 @@ Phantom GPS II 操作手册
    [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。
 
 #### 连接设备
-1.	长按2秒power键启动设备<br>
-2.	解锁手机屏幕<br>
-2.	将设备的Lightning连接线插入手机充电口<br>
-4.	手机右上角充电🔋指示灯亮，或者提示"可能不支持此配件"，点确定<br>
-5.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）<br>
+1.	长按2秒power键启动设备。<br>
+2.	解锁手机屏幕。<br>
+2.	将设备的Lightning连接线插入手机充电口。<br>
+4.	手机右上角充电🔋指示灯亮，或者提示"可能不支持此配件"，点确定。<br>
+5.	等待手机屏幕提示"是否信任此电脑"，选"信任"，并输入密码（如果有）。<br>
 6.	打开应用软件 PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功。<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
 	1）重新插拔连接线，或者<br>
@@ -47,6 +47,10 @@ Phantom GPS II 操作手册
 		略。<br>
 
 #### 充电
+	电池充满电以后可以连续工作7-8小时。<br>
+	用配套的Micro USB充电线给设备充电。<br>
+	设备连接手机并插上充电器时，会同时给手机和设备充电。给手机充电电流低于1A，效率不高。<br>
+	未插上充电器时，手机屏幕（可能）会显示正在充电图标，但并不会给手机充电<br>
 
  
 #### Tips
