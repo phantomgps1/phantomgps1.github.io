@@ -14,7 +14,7 @@ Phantom GPS II 操作手册
 2.	将设备的Lightning连接线插入手机充电口。<br>
 4.	手机右上角充电🔋指示灯亮；
 	或者提示"可能不支持此配件"，由于设备里的小电池无法给手机充电，属正常现象，点确定忽略。<br>
-5.	第一次接入设备，手机会提示"是否信任此电脑"，选"信任"，并输入密码（如果有）。<br>
+5.	等待几秒，手机会提示"是否信任此电脑"，选"信任"，并输入密码（如果有）。<br>
 6.	打开应用软件 PhantomGPSII，等待几秒，观察屏幕右下角的USB图标， 绿色 <img src="http://phantomgps.com/assets/connected@2x.png" width="18">表示外设和手机连接并配对成功。<br>
 红色<img src="http://phantomgps.com/assets/disconnected@2x.png" width="18">表示未配对成功。如果在长时间内一直显示红色图标，且屏幕无任何提示，可尝试以下步骤重新连接：<br>
 	1）重新插拔连接线，或者<br>
