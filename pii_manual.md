@@ -29,8 +29,8 @@ Phantom GPS II 操作手册
 3.	位置模式下，点屏幕右下角的小飞机<img src="http://phantomgps.com/assets/flyto_2.png" width="18">图标，完成位置设置。
 4.	扫街模式下，点选择（增加途经点）或者完成（终点）按钮，完成路径选择。
 5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
-6.	点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机可停止位置模拟。<br>
-	拔掉外设、关闭app都无法恢复真实位置。
+6.	点击停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机可以回到真实位置。<br>
+	软件设置停止之前，拔掉外设、关闭app都无法恢复真实位置。
 
 #### LED
 1.	电源
@@ -48,10 +48,11 @@ Phantom GPS II 操作手册
 2.	电源开关
 	- 长按两秒开机/关机。<br>
 3.	方向摇杆<br>
-	- 方向不可设置，背贴手机的时候上北下南<br>
+	- 在位置模式，处于运行状态后摇杆可以操作<br>
 	- 每一步的距离大约为比例尺的1/3,通过缩放地图来调整步长<br>
 	- 灵敏度一般，响应时间约0.5秒<br>
- 
+	- 方向不可设置，背贴手机的时候上北下南<br>	
+	
 #### Tips
 1.	五角星图标<img src="http://phantomgps.com/assets/star.png" width="18">可以收藏位置和路径，打开右上角的文件夹图标可以编辑。
 2.	经纬度输入的格式为："纬度，经度"，只支持百分数格式，不支持度分秒格式，例如"39.9051667,116.3968585"
