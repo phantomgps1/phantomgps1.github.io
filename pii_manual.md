@@ -1,6 +1,6 @@
 Phantom GPS II 操作手册
 ==== 
-[视频： 详细使用方法](https://v.youku.com/v_show/id_XNDY1MzU2MDMwOA==.html)<br>
+[视频： 使用方法](https://v.youku.com/v_show/id_XNDY1MzU2MDMwOA==.html)<br>
 
 使用前，需要先 [购买](http://phantomgps.com)<font  color="red">外接设备</font><br>
 #### 软件安装
