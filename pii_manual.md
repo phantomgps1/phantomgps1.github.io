@@ -1,6 +1,6 @@
 Phantom GPS II 操作手册
 ==== 
-[视频：设备使用方法 (Tobe done)](http://www.xxxxgpsmock.com)<br>
+[视频：设备使用方法 (Tobe done)](https://v.youku.com/v_show/id_XNDY1MzU2MDMwOA==.html)<br>
 [视频：App使用方法](http://player.youku.com/embed/XNDIyMjg4NTgwMA==)<br>
 [视频：用gpx文件导入复杂路径](http://player.youku.com/embed/XNDIyMjg4NTA0NA==)<br>
 
