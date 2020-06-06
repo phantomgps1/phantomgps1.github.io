@@ -29,7 +29,7 @@ Phantom GPS II 操作手册
 2.	拖动、缩放地图，移动目的地址到屏幕中心的水滴正下方。
 3.	位置模式下，点屏幕右下角的小飞机<img src="http://phantomgps.com/assets/flyto_2.png" width="18">图标，完成位置设置。
 4.	扫街模式下，点选择（增加途经点）或者完成（终点）按钮，完成路径选择。
-5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
+5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。<br>
 	- <font  color="red">必须插上设备，点停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机才可以回到真实位置。</font>
 	软件设置停止之前，拔掉外设、关闭app都无法恢复真实位置。<br>
 
