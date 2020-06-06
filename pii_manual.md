@@ -4,7 +4,7 @@ Phantom GPS II 操作手册
 
 使用前，需要先 购买<font  color="red">外接设备</font><br>
 #### 软件安装
-   [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。<br>按装好以后，切换到扫街界面，允许定位权限，根据个人需求选择始终允许或者使用时允许都可以，不影响使用。
+   [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。<br>装好后切换到扫街界面，允许定位权限，根据个人需求选择始终允许或者使用时允许都可以，不影响使用。
 
 
 #### 连接设备
@@ -30,7 +30,7 @@ Phantom GPS II 操作手册
 3.	位置模式下，点屏幕右下角的小飞机<img src="http://phantomgps.com/assets/flyto_2.png" width="18">图标，完成位置设置。
 4.	扫街模式下，点选择（增加途经点）或者完成（终点）按钮，完成路径选择。
 5.	查看代表当前位置的图标<img src="http://phantomgps.com/assets/bluecycle.png" width="24">（蓝点白圈）是否移动到指定位置。如果有表示成功，留在原地，表示失败。
-6.	<font  color="red">必须插上设备，点停止按钮</font><img src="http://phantomgps.com/assets/stop@2x.png" width="18">，或者重启手机才可以回到真实位置。<br>
+6.	<font  color="red">必须插上设备，点停止按钮<img src="http://phantomgps.com/assets/stop@2x.png" width="18"></font>，或者重启手机才可以回到真实位置。<br>
 	软件设置停止之前，拔掉外设、关闭app都无法恢复真实位置。<br>
 
 #### LED
