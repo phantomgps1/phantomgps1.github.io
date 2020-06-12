@@ -22,10 +22,11 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 说明书   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
 <font  color="red">*注1: 远距离操作麻烦，稳定性较差</font><br> 
-
+<!--
 ### 支持哪些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
 支持iOS 9.0以后的系统<br>
+-->
 
 ### 购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
