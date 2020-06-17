@@ -37,6 +37,6 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
 -->
 <center class="half">
-    <img src="http://phantomgps.com/assets/wcqr.png" width="30%" > <img src="http://phantomgps.com/assets/gh_e91036b77b64_430.jpg" width=30%>
+    <img src="http://phantomgps.com/assets/wcqr.png" width="30%" > <img src="http://phantomgps.com/assets/gh_e91036b77b64_430.jpg" width="30%">
 </center>
 
