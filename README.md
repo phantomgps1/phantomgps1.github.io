@@ -31,11 +31,9 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买链接:[微信小程序](http://phantomgps.com/assets/gh_e91036b77b64_430.jpg) 或者[转转](https://i.zhuanzhuan.com/cr5on)
 
-
+-->
 ### 客服
 微信扫二维码添加客服<br>
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
--->
-|    客服微信|  购买链接 | 
-| :----:   |  :----:    | 
-| <img src="http://phantomgps.com/assets/wcqr.png" width="30%" >     | ![小程序 图标]http://phantomgps.com/assets/gh_e91036b77b64_430.jpg) |
+
+
