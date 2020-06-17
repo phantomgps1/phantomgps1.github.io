@@ -38,4 +38,4 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 -->
 |    客服微信|  购买链接 | 
 | :----:   |  :----:    | 
-| <img src="http://phantomgps.com/assets/wcqr.png" width="30%" >     | <img src="http://phantomgps.com/assets/gh_e91036b77b64_430.jpg" width="30%" >  |
+| <img src="http://phantomgps.com/assets/wcqr.png" width="30%" >     | ![小程序 图标]http://phantomgps.com/assets/gh_e91036b77b64_430.jpg) |
