@@ -13,7 +13,7 @@ PhantomGPSII 固件升级指导
 1.	解压下载的文件。其中PhantomGPSII_fw_verxxx.img为升级文件。<br>
 2.	进入驱动文件夹，运行DriverInstall.exe,安装设备驱动<br>
 3.	运行FactoryTool.exe<br>
-	-点左上角固件按钮，选择刚刚下载的PhantomGPSII_fw.img文件<br>
+	-点左上角固件按钮，选择刚刚下载的PhantomGPSII_fw_verxxx.img文件<br>
 	-点启动按钮，等待GPS插入<br>
 4.	<font  color="red">操作GPS</font><br>
 	-让GPS处于关机状态<br>
