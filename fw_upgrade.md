@@ -1,4 +1,4 @@
-PhantomGPSII 固件升级手册
+PhantomGPSII 固件升级指导
 ====
 #### 准备工作
 1.	安装了Windows操作系统的电脑<br>
@@ -19,19 +19,19 @@ PhantomGPSII 固件升级手册
 	-让GPS处于关机状态<br>
 	-将取卡器从设备顶部小孔插入，轻轻按下、弹起，多尝试几次，找到里面升级按键的手感。<br>
 	-将取卡器下的升级按键按住，再按住电源开机键，持续两秒。<br>
-	（按住升级键再开机，设备就进入了升级模式）
-	-松开两个按键（无先后顺序），此时蓝色电源指示灯应该处以熄灭状态。如果灯亮了，将设备关掉，重复上面步骤<br>
+	（按住升级键再开机，设备就进入了升级模式）<br>
+	-松开两个按键（无先后顺序），此时蓝色电源指示灯应该处以熄灭状态。如果灯亮了，将设备关掉，重复上面步骤。<br>
 	-用USB线连接GPS和电脑<br>
 5.	升级
 	-点开升级工具USB列表中所有的+号键，如果没有的话可以忽略。<br>
-	-如果一切正常，将显示升级进度<br>
-	-升级完后，后侧绿灯下会显示升级成功<br>
+	-如果一切正常，将显示升级进度。<br>
+	-升级完后，后侧绿灯下会显示升级成功。<br>
  
 #### 常见问题
-1.	请放心操作，任何意外（如电脑断电，载入的固件有错）都不会使设备变砖<br>
+1.	请放心操作，任何意外（如电脑断电，载入的固件有错）都不会使设备变砖。<br>
 2.	如果出现下载固件失败的提示：<br>
-	-请将GPS的USB线拔掉，按住电源键15秒<br>
-	-用取卡器按住升级键开机，并重复之前的升级步骤<br>
-3.	如果担心文件出错，可以对比[md5sum](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3_md5.txt)
-4.	fdasfdasfd稍微详细一些的本文[文档]（http://download.gpsmock.com/firmware/PhantomGPSII_fw_upgrade_guide.pdf）
-5.	如果实在搞不定，请联系客服提供视频指导，或者寄回设备升级。
+	-请将GPS的USB线拔掉，按住电源键15秒。<br>
+	-用取卡器按住升级键开机，并重复之前的升级步骤。<br>
+3.	如果担心文件出错，可以对比[md5sum](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3_md5.txt)<br>
+4.	本文稍微详细的版本[PDF](http://download.gpsmock.com/firmware/PhantomGPSII_fw_upgrade_guide.pdf),有图。<br>
+5.	如果实在搞不定，请联系客服提供视频指导，或者寄回设备升级。<br>
