@@ -13,7 +13,7 @@ PhantomGPSII 固件升级指导
 3.	准备一个取卡器<img src="http://phantomgps.com/assets/needle.jpg" width="5%" >或者大头针之类的工具<br>
  
 #### 升级步骤
-1.	解压下载的文件。其中PhantomGPSII_fw_verxxx.img为升级文件。<br>
+1.	解压下载的文件(下载四个文件，解压后是三个）。其中PhantomGPSII_fw_verxxx.img为升级文件。<br>
 2.	进入驱动文件夹，运行DriverInstall.exe,安装设备驱动<br>
 3.	运行FactoryTool.exe<br>
 	-点左上角固件按钮，选择刚刚下载的PhantomGPSII_fw_verxxx.img文件<br>
@@ -24,7 +24,7 @@ PhantomGPSII 固件升级指导
 	-将取卡器下的升级按键按住，再按住电源开机键，持续两秒。<br>
 	（按住升级键再开机，设备就进入了升级模式）<br>
 	-松开两个按键（无先后顺序），此时蓝色电源指示灯应该处以熄灭状态。如果灯亮了，将设备关掉，重复上面步骤。<br>
-	-用USB线连接GPS和电脑<br>
+	-将USB充电线插入GPS充电口，另一端连接电脑<br>
 5.	升级
 	-点开升级工具USB列表中所有的+号键，如果没有的话可以忽略。<br>
 	-如果一切正常，将显示升级进度。<br>
