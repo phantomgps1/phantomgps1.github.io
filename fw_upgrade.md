@@ -1,8 +1,11 @@
 PhantomGPSII 固件升级指导
 ====
+固件是指运行在GPS里面的软件，升级固件类似于给手机刷机.<br>
+版本查看方法:左上角菜单打开，第一行显示类似:1.0.1（FW: 1.1)的字样，其中1.0.1位App的版本号，括号里的1.1为固件的版本号<br>
+当前最新的固件版本为1.3,如果App菜单按钮出现了小红点，说明有新的固件版本可以升级。
 #### 准备工作
 1.	安装了Windows操作系统的电脑<br>
-2.	下载以下文件包：<br>
+2.	在电脑上下载以下文件包：<br>
 [设备驱动](http://download.gpsmock.com/firmware/DriverAssitant_v4.6.zip)<br>
 [升级工具](http://download.gpsmock.com/firmware/FactoryTool_v1.63.zip)<br>
 [固件文件包1](https://down.anqiuzp.cn/data/download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part1.rar)<br>
