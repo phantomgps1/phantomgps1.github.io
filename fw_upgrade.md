@@ -10,7 +10,7 @@ PhantomGPSII 固件升级指导
 [升级工具](http://download.gpsmock.com/firmware/FactoryTool_v1.63.zip)<br>
 [固件文件包1](https://down.anqiuzp.cn/data/download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part1.rar)<br>
 [固件文件包2](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part2.rar)<br>
-3.	准备一个取卡器、或者大头针之类的工具<br>
+3.	准备一个取卡器<img src="http://phantomgps.com/assets/needle.jpg" width="3%" >或者大头针之类的工具<br>
  
 #### 升级步骤
 1.	解压下载的文件。其中PhantomGPSII_fw_verxxx.img为升级文件。<br>
