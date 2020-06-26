@@ -43,3 +43,6 @@ PhantomGPSII 固件升级指导
 4.	如果担心文件出错，可以对比[md5sum](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3_md5.txt)<br>
 5.	本文稍微详细的版本[PDF](http://download.gpsmock.com/firmware/PhantomGPSII_fw_upgrade_guide.pdf),有图。<br>
 6.	如果实在搞不定，请联系客服提供视频指导，或者寄回设备升级。<br>
+7.	放弃:长按电源键15秒，设备可以重新开机。
+
+ 
