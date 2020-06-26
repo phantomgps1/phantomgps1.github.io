@@ -33,11 +33,9 @@ PhantomGPSII 固件升级指导
 #### 常见问题
 1.	放心操作，任何意外（如电脑断电，载入的固件有错）都不会使设备变砖。<br>
 2.	如果连接电脑没有反应，查看设备管理器里是否有"Rockusb device"的设备，如果是设备驱动安装不成功（没有该设备，或者显示黄色三角形感叹号），可尝试：
-	- [去掉强制签名](https://7dapi7.smartapps.cn/pages/article/article?_swebfr=1&eid=b2c186c86504a9c46ef6ffd4&scene=10810008&from=&hostname=baiduboxapp)，重新安装驱动
-	- 重启电脑<br>
-	- 重新安装驱动<br>
-	- 换USB线<br>
-	- 将设备插入电脑尾部USB端口等方法<br>
+	- [去掉强制签名](https://7dapi7.smartapps.cn/pages/article/article?_swebfr=1&eid=b2c186c86504a9c46ef6ffd4&scene=10810008&from=&hostname=baiduboxapp)，重新安装驱动；或者
+	- 换USB线；或者
+	- 将设备插入电脑尾部USB端口等方法。
 3.	如果出现下载固件失败的提示：<br>
 	- 请将GPS的USB线拔掉，按住电源键15秒。<br>
 	- 用取卡器按住升级键开机，并重复之前的升级步骤。<br>
