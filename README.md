@@ -29,11 +29,10 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 ### 购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买链接:[拼多多](https://mobile.yangkeduo.com/mall_page.html?mall_id=728731193)或者[微信小程序](http://phantomgps.com/assets/gh_e91036b77b64_430.jpg)。下午7点前下单当天发货（顺丰）。<br>
- 拼多多如果有**单独购买**的选项尽量选单独购买；拼单是让你找人团购，成团后发货。-->
+
 
 ### 客服
 微信扫二维码添加客服<br>
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
-
-
+-->
 
