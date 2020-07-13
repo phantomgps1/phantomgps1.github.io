@@ -7,7 +7,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 
 
 |            | PhantomGPS  |  PhantomGPS II  |
-| --------   | -----:     | :----: |
+| --------   | :-----:     | :----: |
 | 安装方法     | 需要邀请码  |   AppStore下载    |
 | 绑定     | 绑定一个账号  |   任意手机    |
 | 软件过期     | 90天更新      |   不会过期           |
@@ -16,7 +16,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 体积        |    40x20x10mm      |   70x50x13mm        |
 | 需要充电 |    NO      |   YES    |
 | 有摇杆   |   NO       |   YES    |
-| Pokemon go   |   支持       |   <font  color="red">Limited(注1*)</font>    |
+| Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
 | 支持iOS13   |   <font  color="red">YES(注2*)</font>      |   YES    |
 | 价格   |   249     |   399    |
 | 说明书   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
