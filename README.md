@@ -1,7 +1,7 @@
 ### Phantom GPS
 
 <img src="http://phantomgps.com/assets/phantomgpsii.jpg"  ><br>
-（PhantomGPS -- since 2016）
+（PhantomGPS && PhantomGPS II）
 
 PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
 
@@ -18,7 +18,6 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 | 有摇杆   |   NO       |   YES    |
 | Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
 | 支持iOS13   |   <font  color="red">YES(注2*)</font>      |   YES    |
-| 价格   |   249     |   399    |
 | 说明书   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
 *注1: 固定位置，不能走路。算好CD时间再移动<br>
@@ -27,11 +26,13 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
 支持iOS 9.0以后的系统<br>
 
+<!--
 ### 购买
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买:[微店](https://k.ruyu.com/iy3I4SkX)或者[微信小程序(扫二维码)](http://phantomgps.com/assets/gh_e91036b77b64_430.jpg)。下午7点前下单当天发货（顺丰）。<br>
-
+-->
+<!--
 ### 客服
 微信扫二维码添加客服<br>
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
-
+--!>
