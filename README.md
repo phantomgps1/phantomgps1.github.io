@@ -8,7 +8,7 @@ PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便�
 
 |            | PhantomGPS  |  PhantomGPS II  |
 | --------   | :-----:     | :----: |
-| 安装方法     | 需要邀请码  |   AppStore下载    |
+| 安装方法     | Testflight  |   AppStore下载    |
 | 绑定     | 绑定一个账号  |   任意手机    |
 | 软件过期     | 90天更新      |   不会过期           |
 | 拔掉设备     | 恢复真实位置    |   位置保留        |
