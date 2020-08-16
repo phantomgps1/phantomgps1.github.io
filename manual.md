@@ -43,7 +43,6 @@ Phantom GPS 操作手册
 	3.  打开飞行模式，Wi-Fi和数据流量都关掉。
 	4.  系统设置->隐私->定位服务->关闭;过几秒再打开。
 	5.  设置完成，此时地图上显示的应该是设置的目的地址。
-	6.  保留在行模式，开Wi-Fi，可正常使用。
-	7.  没有iOS12稳定。
-	8.  [(参考视频）](http://player.youku.com/embed/XNDM3NDM3MTg2OA==)
+	6.  保留在行模式，开Wi-Fi，可正常使用。[(参考视频）](http://player.youku.com/embed/XNDM3NDM3MTg2OA==)
+	没有iOS12稳定。
 
