@@ -3,7 +3,7 @@ PhantomGPSII 固件升级指导
 固件是指运行在GPS里面的软件，升级固件类似于给手机刷机.<br>
 版本查看方法:插上设备，显示绿色USB图标以后，打开左上角菜单，第一行显示类似:1.0.1（FW: 1.1)的字样，其中1.0.1位App的版本号，括号里的1.1为固件的版本号<br>
 当前最新的固件版本为1.3,如果App菜单按钮出现了小红点，说明有新的固件版本可以升级。<br>
-[视频指导](http://https://v.youku.com/v_show/id_XNDk0MDM3MTQ5Ng==.html)
+[视频指导](https://v.youku.com/v_show/id_XNDk0MDM3MTQ5Ng==.html)
 #### 准备工作
 1.	安装了Windows操作系统的电脑<br>
 2.	在电脑上下载以下文件包：<br>
