@@ -4,7 +4,7 @@
 <img src="http://phantomgps.com/assets/phantomgpsii.jpg"  ><br>
 （PhantomGPS一代和二代）
 
-PhantomGPS是iOS设备的外置GPS，用于修改手机的地理位置，方便工程师调试程序所用。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
+PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家提供便利。YouTube上有详细的视频。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
 
 
 |            | PhantomGPS  |  PhantomGPS II  |
