@@ -34,7 +34,7 @@ PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家
 购买:[微店](https://k.ruyu.com/iy3I4SkX)或者[微信小程序(扫二维码)](http://phantomgps.com/assets/gh_e91036b77b64_430.jpg)。下午7点前下单当天发货（顺丰）。<br>
 -->
 
-### 客服
-微信二维码<br>
+### 
+
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
 
