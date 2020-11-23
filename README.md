@@ -26,6 +26,7 @@ PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家
 ### 支持些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
 支持iOS 9.0以后的系统<br>
+没有淘宝店<br>
 <!--
 ###testflight 异常
 一代的设备需要用testflight更新软件，如果打开testflight提示“无法载入App”，需要将DNS设置成114.114.114.114或者8.8.8.8再更新，参考[详细方法](https://jingyan.baidu.com/article/066074d6fe9dd1c3c31cb042.html)
