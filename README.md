@@ -19,6 +19,7 @@ PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家
 | 有摇杆   |   NO       |   YES    |
 | Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
 | 支持iOS13   |   <font  color="red">YES(注2*)</font>      |   YES    |
+| 价格   |   299      |   399    |
 | 教程/视频   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
 *注1: 游戏里不要走路。算好CD时间再移动<br>
