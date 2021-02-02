@@ -4,7 +4,7 @@
 <!--
 <img src="http://phantomgps.com/assets/phantomgpsii.jpg"  ><br>
 -->
-<img src="https://upload-images.jianshu.io/upload_images/4572384-f12dd36664f31d6a.jpg"><br>
+ <img src="https://upload-images.jianshu.io/upload_images/4572384-f12dd36664f31d6a.jpg"><br>
 （PhantomGPS一代和二代）
 
 PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相关项目。YouTube上有详细的视频。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
