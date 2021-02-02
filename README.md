@@ -44,4 +44,4 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 <!--
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
 -->
-<img src="http://download.gpsmock.com/pics/wcqr.png"><br>
+<img src="http://download.gpsmock.com/pics/wcqr.png"  width="30%" ><br>
