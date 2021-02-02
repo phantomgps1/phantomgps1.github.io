@@ -1,10 +1,13 @@
 <!--PhantomGPS 官网 官方网站!-->
 ### Phantom GPS
 
+<!--
 <img src="http://phantomgps.com/assets/phantomgpsii.jpg"  ><br>
+-->
+<img src="https://upload-images.jianshu.io/upload_images/4572384-f12dd36664f31d6a.jpg"><br>
 （PhantomGPS一代和二代）
 
-PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家提供便利。YouTube上有详细的视频。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
+PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相关项目。YouTube上有详细的视频。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
 
 
 |            | PhantomGPS  |  PhantomGPS II  |
@@ -38,5 +41,7 @@ PhantomGPS是针对Pokemon go设计的辅助设备，为不方便出门的玩家
 
 ### 微信
 
+<!--
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
-
+-->
+<img src="https://upload-images.jianshu.io/upload_images/4572384-773a190f6a77dd4e.png"><br>
