@@ -4,7 +4,7 @@
 <!--
 <img src="http://phantomgps.com/assets/phantomgpsii.jpg"  ><br>
 -->
- <img src="http://download.gpsmock.com/pics/phantomgpsii.jpg"><br>
+ <img src="http://pics.gpsmock.com/pics/phantomgpsii.jpg"><br>
 （PhantomGPS一代和二代）
 
 PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相关项目。YouTube上有详细的视频。目前有PhantomGPS和PhantomGPS II两款，功能对比如下：<br>
@@ -44,4 +44,4 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 <!--
 <img src="http://phantomgps.com/assets/wcqr.png" width="30%" ><br>
 -->
-<img src="http://download.gpsmock.com/pics/wcqr.png"  width="30%" ><br>
+<img src="http://pics.gpsmock.com/pics/wcqr.png"  width="30%" ><br>
