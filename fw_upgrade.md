@@ -7,10 +7,10 @@ PhantomGPSII 固件升级指导
 #### 准备工作
 1.	安装了Windows操作系统的电脑<br>
 2.	在电脑上下载以下文件包：<br>
-[设备驱动](http://download.gpsmock.com/firmware/DriverAssitant_v4.6.zip)<br>
-[升级工具](http://download.gpsmock.com/firmware/FactoryTool_v1.63.zip)<br>
-[固件文件包1](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part1.rar)<br>
-[固件文件包2](http://download.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part2.rar)<br>
+[设备驱动](http://pics.gpsmock.com/firmware/DriverAssitant_v4.6.zip)<br>
+[升级工具](http://pics.gpsmock.com/firmware/FactoryTool_v1.63.zip)<br>
+[固件文件包1](http://pics.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part1.rar)<br>
+[固件文件包2](http://pics.gpsmock.com/firmware/PhantomGPSII_fw_ver1.3.part2.rar)<br>
 3.	准备一个取卡器<img src="http://phantomgps.com/assets/needle.jpg" width="5%" >或者大头针之类的工具<br>
  
 #### 升级步骤
