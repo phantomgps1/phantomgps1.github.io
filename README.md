@@ -12,6 +12,7 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 
 |            | PhantomGPS  |  PhantomGPS II  |
 | --------   | :-----:     | :----: |
+|上市时间     |  2016.10     |    2020.4 |
 | 安装方法     | Testflight  |   AppStore下载    |
 | 绑定     | 绑定一个账号  |   任意手机    |
 | 软件过期     | 90天更新      |   不会过期           |
