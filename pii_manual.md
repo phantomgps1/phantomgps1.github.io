@@ -5,8 +5,7 @@ Phantom GPS II 操作手册
 
 使用前，需要先 购买<font  color="red">外接设备</font><br>
 #### 软件安装
-   [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。<br>装好后切换到扫街界面，允许定位权限，根据个人需求选择始终允许或者使用时允许都可以，不影响使用。
-
+   [点击该链接](https://apps.apple.com/cn/app/phantomgpsii/id1484343559) <br>或者AppStore 搜索PhantomGPSII <img src="http://phantomgps.com/assets/icon-83.5@2x.png" width="18"> 并下载。<br>第一次打开App会提示允许定位权限，根据个人需求选择“始终允许”或者“使用时允许”都可以，不影响使用。
 
 #### 连接设备
 1.	长按2秒power键启动设备。<br>
@@ -14,7 +13,7 @@ Phantom GPS II 操作手册
 3.	将设备的Lightning连接线插入手机充电口。<br>
 4.	手机右上角充电🔋指示灯亮；<br>
 	或者提示"可能不支持此配件"，由于设备里的小电池无法给手机充电，属正常现象，点确定忽略。<br>
-5.	3秒后，手机会提示"是否信任此电脑"，选"信任"，并输入密码（如果有）。<br>
+5.	3秒后，手机会提示"是否信任此电脑"，选"信任"，并输入密码（锁屏密码，如果有）。<br>
 	直到下次外设重启之前不会再提示是否信任<br>
 6.	打开应用软件 PhantomGPSII，等待几秒，屏幕会出现Loading界面（手机加载驱动的过程），如果手机重启过后，加载的时间会比较长，持续2-3分钟属于正常现象。<br>
 	- 如果刚升级过iOS版本，则会出现下载驱动的界面，该过程通常需要3-5分钟，如果在某个环节卡住不动，可以关掉app，重新打开再次尝试。<br>
