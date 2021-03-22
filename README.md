@@ -22,7 +22,9 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 | 需要充电 |    NO      |   YES    |
 | 有摇杆   |   NO       |   YES    |
 | Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
+<!--
 | 支持iOS13   |   <font  color="red">YES(注2*)</font>      |   YES    |
+-->
 | 价格   |   199      |   399    |
 | 教程/视频   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
