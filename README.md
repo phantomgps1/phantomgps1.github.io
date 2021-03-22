@@ -19,8 +19,8 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 | 拔掉设备     | 恢复真实位置    |   位置保留        |
 |限制15公里 | iOS13以后有限制    |   无限制 |
 | 体积        |    40x20x10mm      |   70x50x13mm        |
-| 需要充电 |    NO      |   YES    |
-| 有摇杆   |   NO       |   YES    |
+| 要充电 |    不需要      |   需要    |
+| 摇杆   |   没有       |   有    |
 | Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
 | 价格   |   199      |   399    |
 | 教程/视频   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
@@ -28,8 +28,8 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 *注1: 游戏里不要走路。算好CD时间再移动<br>
 
 ### 支持些设备
-支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
-支持iOS 9.0以后的系统，不支持5/5C型号的手机<br>
+支持使2014年（5S）以后的iPhone、iPad和iPod.<br>
+支持iOS 9.0以后的系统<br>
 <!--
 ###testflight 异常
 一代的设备需要用testflight更新软件，如果打开testflight提示“无法载入App”，需要将DNS设置成114.114.114.114或者8.8.8.8再更新，参考[详细方法](https://jingyan.baidu.com/article/066074d6fe9dd1c3c31cb042.html)
