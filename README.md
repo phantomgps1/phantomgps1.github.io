@@ -26,7 +26,7 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 | 教程/视频   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
 *注1: 游戏里不要走路。算好CD时间再移动<br>
-*注2: 远距离操作麻烦，稳定性较差<br> 
+
 ### 支持些设备
 支持使用lightning接口（16pin小口USB）的iPhone、iPad和iPod.<br>
 支持iOS 9.0以后的系统，不支持5/5C型号的手机<br>
