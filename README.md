@@ -33,8 +33,9 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 <!--
 ###testflight 异常
 一代的设备需要用testflight更新软件，如果打开testflight提示“无法载入App”，需要将DNS设置成114.114.114.114或者8.8.8.8再更新，参考[详细方法](https://jingyan.baidu.com/article/066074d6fe9dd1c3c31cb042.html)
--->
 ### 购买
+-->
+
 **外设**需要购买,通过快递才能到你手上，不是软件。<br>
 购买链接:[微店](https://weidian.com/?userid=1183354983)，下午6点前下单当天发货（顺丰）。<br>
 
