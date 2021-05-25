@@ -18,14 +18,13 @@ PhantomGPS是iOS程序员调试软件时使用的辅助工具，可用于LBS相�
 | 绑定     | 绑定一个账号  |   任意手机    |
 | 软件过期     | 90天更新      |   不会过期           |
 | 拔掉设备     | 恢复真实位置    |   位置保留        |
-|限制15公里 | iOS13以后有限制    |   无限制 |
+|修改距离 | <font  color="red">15公里内(注1*)</font>   |   全球 |
 | 体积        |    40x20x10mm      |   70x50x13mm        |
 | 要充电 |    不需要      |   需要    |
 | 摇杆   |   没有       |   有    |
-| Pokemon go   |   支持|   <font  color="red">Limited(注1*)</font>  |
+| Pokemon go   |   支持|   不支持|
 | 教程/视频   |   [手册1](http://phantomgps.com/manual)      |   [手册2](http://phantomgps.com/pii_manual)    |
 
-*注1: 游戏里不要走路。算好CD时间再移动<br>
 
 ### 支持些设备
 支持使2014年（5S）以后的iPhone、iPad和iPod.<br>
